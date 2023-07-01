@@ -22,7 +22,7 @@ Check out the [demo video](https://drive.google.com/file/d/1AFdPjtjzRh68hgE7QvW-
 
 To run the Movie Explorer app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/movie-explorer.git`
+1. Clone the repository
 2. Open the project in Xcode.
 3. Build and run the app on your iOS device or simulator.
 
